@@ -1,5 +1,6 @@
 # 🚀 Deploying PetPals to Vercel — Full Setup Guide
 
+
 This walks you through going from the code on your machine to a live, working
 marketplace on Vercel — database, auth, payments, chatbot, and location search.
 
